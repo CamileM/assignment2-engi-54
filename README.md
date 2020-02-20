@@ -1,13 +1,11 @@
 # Assignment 2 - Communication: Principles & Barriers
 
 ## Communication
-
 - Everything we do is a form of communication
 - A conversation should be two way
 - The real message is the one received, not the one intended
 
 ### The Effect on Businesses:
-
 - Loss of potential business
 - Mistakes
 - Lack of coordination
@@ -16,7 +14,6 @@
 - Poor morale
 
 ### Barriers to Communication:
-
 - Personal
 - Body Language
 - Geographical
@@ -24,13 +21,11 @@
 - Organisational
 
 ### The Three V’s”
-
 Verbal —— Vocal ---- Visual
 
 “The most important thing in communication is hearing what isn’t said”by Peter Drucker.
 
 ### Body Language:
-
 - Sit or stand at an right angle
 - Respect personal space
 - Use open gesture
@@ -47,14 +42,12 @@ Cosmetic —> Conversational —> Active —> Deep
 4. Don’t interrupt
 
 ### Good Questions:
-
 - What led up to that?
 - What did you manage to accomplish on your trip?
 - In what ways does the candidate meet our needs?
 - What happened at the meeting?
 
 ### Closing Questions:
-
 - These aim at removing ambiguity.
 - ALWAYS have a next action
 - What is our next action on this?
@@ -64,7 +57,6 @@ Cosmetic —> Conversational —> Active —> Deep
 It does not matter what industry or position you’re in - developing rapport with all levels can bring opportunities.
 
 ### Communication skills:
-
 - Tone of voice
 - Language used
 Remembers people names
@@ -75,7 +67,6 @@ Listen attentively:
 Find common ground
 
 ### Different Personalities:
-
 - Extroverts
 - Introverts
 - Supporter
@@ -94,32 +85,29 @@ Find common ground
 - Difference in Values, Beliefs & Opinion
 
 ## Broad Approaches to Conflict
-
 - Nullifiers: Value harmony, positive relationship, don’t want to hurt feelings, stabilise team dynamics.
-
 - Seekers: Eager to engage in disagreements, directness, honestly, lose patience when others aren’t as direct, doesn’t mind destabilising teams.
-
 - “Not every situation requires an action”
 
 ## TIPS:
 - Stay Calm
-- Listen
+- Listen:
     - Understand their perspective
     - Don’t assume
 - Treat them with respect
 - DON’T push blame
-- Take responsibility
+- Take responsibility:
     - You may be wrong
 - Adjust body language
 
-## Neuro - Linguistic Programming:
+## Neuro - Linguistic Programming (Neuro):
 - First access (mental map of the world)
 - Created from internal images, sounds, tastes and smells we encounter.
 
-## Neuro - Linguistic Programming:
+## Neuro - Linguistic Programming (Linguistic):
 
 
-## Neuro - Linguistic Programming:
+## Neuro - Linguistic Programming (Programming):
 - Our Behavioural Response
 - Communicated  
 
@@ -127,7 +115,7 @@ Find common ground
 - Think more clearly
 - Communicate more effectively with others
 - Manage your thoughts, moods and behaviour effectively
-- Medical Benefits
+- Medical Benefits:
     - Handle: Anxiety, phobias
 
 ## NLP in the workplace:
@@ -152,10 +140,9 @@ Find common ground
 1. Need To Act Fast
 2. What should we remember?
 
-# Assignment 2 -Presentation Skills:
+# Assignment 2 - Presentation Skills:
 
 ## Qualities of a good presenter:
-
 - Confidence
     - Knowledge of the subject
     - Preparation and planning
@@ -173,7 +160,6 @@ Find common ground
 - Enthusiasm
 
 ## Good Slides:
-
 - Diligence:
     - Formatting  
     - spelling/content of the slides should be accurate
@@ -193,19 +179,19 @@ Structuring a Presentation:
 
 If you are presenting...
 
-Understand your audience
-Keep it simple
-Your slides are your aid, not the end product
-Use notes
-Use diagrams and images
+- Understand your audience
+- Keep it simple
+- Your slides are your aid, not the end product
+- Use notes
+- Use diagrams and images
 
 Tell a story…
 E.g Music but a respective point of music in your life.
 
 ## TASK:
-5 Minutes ( Minimum 4 and Maximum 6)
-A subject of your choice (passion)
-Research & Plan (tonight)
-Rehearse (at least once)
-Each person delivers tomorrow (individually)
-Part of your assessment (Ruberic)
+- 5 Minutes ( Minimum 4 and Maximum 6)
+- A subject of your choice (passion)
+- Research & Plan (tonight)
+- Rehearse (at least once)
+- Each person delivers tomorrow (individually)
+- Part of your assessment
